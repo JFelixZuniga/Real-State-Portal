@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --orange: #DF8716;
+  --green: #71B11F;
+  --white: #F5F5F5;
+  --black: #323232;
+  --gray-light: #E1E1E1;
+}
+
+html {
+  font-size: 10px;
+}
